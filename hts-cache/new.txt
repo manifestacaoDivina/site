@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:27:26	24382/24382	---MCZ	200	added ('OK')	text/html	etag:W/%2267420f78-5f3e%22	https://www.recebadedeus.site/md	C:/Users/Eduardo/Documents/jose/jose/www.recebadedeus.site/md.html	(from )
+22:27:26	859/859	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%2267630b43-692%22	https://www.recebadedeus.site/robots.txt		(from )
